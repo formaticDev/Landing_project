@@ -1,5 +1,5 @@
 # Landing_project
- One paged site, created from template but fully customized.
+ Fully customized one page site.
 Credit:
 "Boxify" One Page Website Template by Peter Finlan for Codrops
 
